@@ -1,0 +1,6 @@
+PING 120.24.234.44 (120.24.234.44): 56 data bytes
+64 bytes from 120.24.234.44: icmp_seq=0 ttl=47 time=37.968 ms
+
+--- 120.24.234.44 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 37.968/37.968/37.968/0.000 ms
